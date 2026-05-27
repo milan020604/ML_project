@@ -23,8 +23,8 @@ This project compares a small ResNet-style CNN and a parameter-matched Vision Tr
 
 ```text
 data/           dataset loading and splits
-models/         CNN and ViT implementations
 experiments/    saved checkpoints
-results/        CSV outputs
 figures/        plots and visualisations
+models/         CNN and ViT implementations
 report/         final paper
+results/        CSV outputs
